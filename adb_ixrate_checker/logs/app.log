@@ -1,0 +1,16 @@
+2026-03-04 06:23:48 [INFO] app.main - Starting ADB Interest Rate Index Check for 2026-01-15
+2026-03-04 06:23:48 [INFO] app.main - Currencies: ['CNY'] | Tolerance: 0.001
+2026-03-04 06:23:48 [INFO] app.main - Processing CNY...
+2026-03-04 06:23:48 [INFO] app.main - CNY: Interface date = 2026-01-14 (lag: 1 days)
+2026-03-04 06:23:48 [ERROR] app.main - CNY: Interface folder does not exist: /nonexistent/path
+2026-03-04 06:24:03 [INFO] app.main - Starting ADB Interest Rate Index Check for 2026-01-15
+2026-03-04 06:24:03 [INFO] app.main - Currencies: ['CNY'] | Tolerance: 0.001
+2026-03-04 06:24:03 [INFO] app.main - Processing CNY...
+2026-03-04 06:24:03 [INFO] app.main - CNY: Interface date = 2026-01-14 (lag: 1 days)
+2026-03-04 06:24:03 [ERROR] app.main - CNY: Interface folder does not exist: /nonexistent/path
+2026-03-04 06:24:11 [INFO] app.main - Starting ADB Interest Rate Index Check for 2026-01-15
+2026-03-04 06:24:11 [INFO] app.main - Currencies: ['CNY'] | Tolerance: 0.001
+2026-03-04 06:24:11 [INFO] app.main - Processing CNY...
+2026-03-04 06:24:11 [INFO] app.main - CNY: Interface date = 2026-01-14 (lag: 1 days)
+2026-03-04 06:24:11 [ERROR] app.main - CNY: Interface folder does not exist: /nonexistent/path
+2026-03-04 06:24:19 [ERROR] __main__ - Application error: Invalid date format: bad-date. Expected YYYY-MM-DD.
